@@ -1,0 +1,25 @@
+# Source files
+balls/
+environment/
+ui/
+main.tscn
+main.gd
+global.gd
+icon.png
+icon.png.import
+project.godot
+default_env.tres
+export_presets.cfg
+CHANGES.md
+COPYRIGHT.txt
+LICENSE.txt
+
+# Binary files
+bin/
+.import/
+
+# Temporary files
+*~
+*.swp
+*.swn
+*.swo
